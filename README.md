@@ -74,6 +74,10 @@ This Task Management System allows team members to:
 - npm or yarn
 - MongoDB instance (local or cloud)
 - Environment variables setup (see `.env.example`)
+- MONGO_URI=mongodb://127.0.0.1:27017/task_manager
+  PORT=3001
+  FRONTEND_URL=http://localhost:3000
+
 
 ### Clone & Install
 
